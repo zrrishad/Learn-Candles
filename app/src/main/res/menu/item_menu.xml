@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/candlestick"
+        android:icon="@drawable/baseline_candlestick_chart"
+        android:title="Candlestick"></item>
+
+
+
+
+    <item
+        android:id="@+id/comment"
+        android:icon="@drawable/baseline_comment"
+        android:title="Quiz"></item>
+
+
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home"
+        android:title="Home"></item>
+
+
+
+    <item
+        android:id="@+id/pdf"
+        android:icon="@drawable/baseline_pdf"
+        android:title="Pdf"></item>
+
+
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/baseline_setting"
+        android:title="Settings"></item>
+
+
+
+
+
+
+
+
+</menu>
